@@ -35,7 +35,8 @@ The results section of the Jupyter Notebook presents the performance of the vari
 ##Dependencies
 The following Python libraries are required to run the code in this repository:
 
-```pandas
+```
+pandas
 numpy
 scikit-learn
 nltk
