@@ -87,3 +87,9 @@ The project utilizes various Python libraries, including pandas, numpy, scikit-l
 ### Naive Bayes with TFIDF
 ![image](https://github.com/venk221/NLP-Classical-techniques-for-Fake-News-Detection/blob/main/NB_TFIDF.png)
 
+### Random Forest with TDIDF
+![image](https://github.com/venk221/NLP-Classical-techniques-for-Fake-News-Detection/blob/main/RF_TFIDF.png)
+
+### Decision Tree with TFIDF
+![image](https://github.com/venk221/NLP-Classical-techniques-for-Fake-News-Detection/blob/main/DT_TFIDF.png)
+
