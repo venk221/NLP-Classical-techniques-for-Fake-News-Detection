@@ -1,4 +1,4 @@
-#Fake News Detection using NLP and Machine Learning Techniques
+#Fake News Detection using NLP and Machine Learning Techniques#
 This repository contains a Jupyter Notebook for a machine learning project focused on detecting fake news articles using various natural language processing (NLP) techniques and machine learning algorithms. The project explores different feature engineering approaches, including Bag of Words, TF-IDF, and enhanced NLP techniques like using nouns and adjectives only. Additionally, several machine learning algorithms, such as Naive Bayes, Random Forest, and Decision Tree, are employed for the classification task.
 
 ##Project Overview
