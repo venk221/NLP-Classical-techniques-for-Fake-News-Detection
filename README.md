@@ -73,3 +73,17 @@ Contributions to this project are welcome. If you find any issues or have sugges
 ## Acknowledgments
 The dataset used in this project is obtained from Kaggle.
 The project utilizes various Python libraries, including pandas, numpy, scikit-learn, nltk, matplotlib, and seaborn.
+
+## Results
+### Naive Bayes with Bag of Words
+![image](https://github.com/venk221/NLP-Classical-techniques-for-Fake-News-Detection/blob/main/NB_BOW.png)
+
+### Random Forest with Bag of Words
+![image](https://github.com/venk221/NLP-Classical-techniques-for-Fake-News-Detection/blob/main/RF_BOW.png)
+
+### Decision Tree with Bag of Words
+![image](https://github.com/venk221/NLP-Classical-techniques-for-Fake-News-Detection/blob/main/DT_BOW.png)
+
+### Naive Bayes with TFIDF
+![image](https://github.com/venk221/NLP-Classical-techniques-for-Fake-News-Detection/blob/main/NB_TFIDF.png)
+
