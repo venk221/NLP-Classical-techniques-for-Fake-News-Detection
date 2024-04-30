@@ -22,9 +22,9 @@ The news article data is cleaned and preprocessed, including steps like removing
 Extract features using advanced NLP techniques, such as considering only nouns and adjectives from the text data.
 
 ### Machine Learning Algorithms
-1.Naive Bayes: Train a Naive Bayes classifier on the feature vectors obtained from the feature engineering techniques.
-2.Random Forest: Train a Random Forest classifier on the feature vectors obtained from the feature engineering techniques.
-3.Decision Tree: Train a Decision Tree classifier on the feature vectors obtained from the feature engineering techniques.
+- Naive Bayes: Train a Naive Bayes classifier on the feature vectors obtained from the feature engineering techniques.
+- Random Forest: Train a Random Forest classifier on the feature vectors obtained from the feature engineering techniques.
+- Decision Tree: Train a Decision Tree classifier on the feature vectors obtained from the feature engineering techniques.
 
 ## Model Evaluation
 The trained models are evaluated using appropriate metrics, such as accuracy, precision, recall, and F1-score, on a held-out test set.
